@@ -26,7 +26,6 @@ Sou estudante de Ciências da Computação e atualmente estou me especializando 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  alt="MuriloLGs-SQL" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="MuriloLGs-HTML" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="MuriloLGs-CSS" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="MuriloLGs-Django" width="60" height="60"/>
 </div>
 <br>
 
