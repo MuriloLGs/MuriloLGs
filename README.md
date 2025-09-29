@@ -1,5 +1,5 @@
 # Olá! Eu sou o Murilo Lourençato Gomes
-Sou estudante de Ciências da Computação e atualmente estou me especializando na área de Data Science e Machine Learning e procuro uma oportunidade para realocação da minha área atual para a área de dados. 
+Formado em Ciências da Computação e realizando pós graduação em Ciência de Dados na Data Science Academy, com foco principal em machine learning. 
 <br>
 
 <picture>
