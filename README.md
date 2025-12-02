@@ -1,30 +1,64 @@
-# Olá! Eu sou o Murilo Lourençato Gomes
-Formado em Ciências da Computação e realizando pós graduação em Ciência de Dados na Data Science Academy, com foco principal em machine learning. 
-<br>
+# 👋 Olá! Eu sou o Murilo Lourençato Gomes
 
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=MuriloLGs&show_icons=true&theme=tokyonight" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=MuriloLGs&show_icons=true" media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MuriloLGs&show_icons=true" alt="GitHub Stats" />
-</picture>
-   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloLGs&hide_progress=true&theme=tokyonight)
+🎓 Formado em Ciência da Computação  
+📊 Pós-graduando em Ciência de Dados (Data Science Academy)  
+🤖 Foco em Machine Learning, Análise Preditiva e Automação  
 
+---
 
-## Linkedin
+### 🔹 **Machine Learning em Python**
+- 📌 Classificação e regressão  
+- 📌 Análise exploratória de dados (EDA)  
+- 📌 Feature Engineering  
+- 📌 Avaliação de métricas  
+- 📌 Pipelines com Scikit-Learn  
+
+---
+
+## 🧠 Tecnologias e Ferramentas
+
+### 🔹 Data Science & Machine Learning
+<div style="display: flex; gap: 18px; align-items: center; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55"/>
+</div>
+
+### 🔹 Banco de Dados
+<div style="display: flex; gap: 18px; align-items: center; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55"/>
+</div>
+
+### 🔹 DevOps & Ferramentas
+<div style="display: flex; gap: 18px; align-items: center; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
+</div>
+
+---
+
+## 🔗 Redes Sociais
+
 <div>
-  <a href="https://www.linkedin.com/in/murilo-lourencato-gomes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+  <a href="https://www.linkedin.com/in/murilo-lourencato-gomes/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </div>
-<br>
 
+---
 
-## 💻 Habilidades
-<div style="display: inline_block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="MuriloLGs-Python" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="MuriloLGs-Pandas" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="MuriloLGs-Scikit-Learn" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  alt="MuriloLGs-SQL" width="60" height="60"/>
+## 🐍 Snake dos commits
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MuriloLGs/MuriloLGs/output/dist/github-contribution-grid-snake.svg" />
 </div>
-<br>
 
-![Visitas no Perfil](https://komarev.com/ghpvc/?username=MuriloLGs&color=green)
+---
+
+## 👀 Visualizações do Perfil
+
+<img src="https://komarev.com/ghpvc/?username=MuriloLGs&color=brightgreen&style=flat-square"/>
+
