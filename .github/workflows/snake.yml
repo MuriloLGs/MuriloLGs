@@ -2,11 +2,14 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # roda todo dia às 00:00 UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write  
+
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
@@ -19,10 +22,9 @@ jobs:
           github_user_name: MuriloLGs
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Commit and push the animation
-        uses: EndBug/add-and-commit@v9
+      - name: Push the animation to the output branch
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          author_name: "GitHub Action"
-          author_email: "action@github.com"
-          message: "Generate snake animation"
-          add: "dist/github-contribution-grid-snake.svg"
+          commit_message: "Generate snake animation."
+          branch: output
+          file_pattern: dist/github-contribution-grid-snake.svg
